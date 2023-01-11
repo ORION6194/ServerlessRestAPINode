@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "firebase-admin": "^8.6.0",
     "firebase-functions": "^3.3.0",
-    "knex": "^0.20.8",
+    "knex": "^2.4.0",
     "pg": "^7.18.1",
     "winston": "^3.2.1"
   },
